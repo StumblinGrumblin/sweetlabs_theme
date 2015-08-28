@@ -5,11 +5,11 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./art/retropie_art_blur.jpg</path>
+			<path>./art/sweety_blue_back.jpg</path>
 		</image>
 
 		<image name="logo">
-			<path>./art/retropie.png</path>
+			<path>./art/options.png</path>
         </image>
 
 		<helpsystem name="help">
@@ -33,7 +33,7 @@
 		</text>
 
 		<image name="logo">
-			<path>./art/retropie.png</path>
+			<path>./art/options.png</path>
 			<pos>0.025 0.079</pos>
 			<maxSize>0.47 0.1</maxSize>
 			<origin>0 0.5</origin>
@@ -53,16 +53,6 @@
 	</view>
 
 	<view name="detailed">
-
-<!-- <measuring rectangle
-		<image name="measure" extra="true">
-			<pos>0.025 0.24</pos>
-			<origin>0 0</origin>
-			<size>0.125 0.301</size>
-			<path>./../art/white.png</path>
-			<color>ff00ff</color>
-		</image>
- -->
 
 		<image name="md_image">
 			<pos>0.025 0.22</pos>
