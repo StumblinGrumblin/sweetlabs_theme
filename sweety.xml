@@ -83,7 +83,7 @@ license:		mit
 			<forceUppercase>1</forceUppercase>
 		</textlist>
 
-    <textlist name="optionslist">
+    <textlist name="optlist">
 			<selectorColor>07b0cc</selectorColor>
 			<selectedColor>f2f3f4</selectedColor>
 			<primaryColor>a1a8b2</primaryColor>
