@@ -21,7 +21,7 @@
 
 	<view name="basic, detailed">
 
-		<text name="system_name_1" extra="true">
+		<!-- <text name="system_name_1" extra="true">
 			<text>RetroPie</text>
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0.16</size>
@@ -30,7 +30,7 @@
 			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
 			<fontSize>0.055</fontSize>
 			<alignment>right</alignment>
-		</text>
+		</text> -->
 
 		<image name="logo">
 			<path>./art/options.png</path>
@@ -43,7 +43,7 @@
 
 	<view name="basic">
 
-		<textlist name="gamelist">
+		<textlist name="optionslist">
 			<pos>0.025 0.22</pos>
 			<size>0.950 0.68</size>
 			<alignment>center</alignment>
